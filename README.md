@@ -1,4 +1,3 @@
-# Jarvis
 # Jarvis: Virtual Assistant with GUI
 Jarvis is a virtual assistant program built using Python and the Tkinter library for the GUI. It is equipped with voice recognition, speech synthesis, and various commands for interacting with system services, browsing the web, sending emails, and more.
 
